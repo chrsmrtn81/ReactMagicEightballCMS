@@ -1,0 +1,19 @@
+{
+  "info": {
+    "name": "prediction"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    }
+  },
+  "connection": "default",
+  "collectionName": "predictions"
+}

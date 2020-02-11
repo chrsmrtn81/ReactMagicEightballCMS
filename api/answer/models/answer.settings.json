@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "answer"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": false
+  },
+  "attributes": {
+    "answer": {
+      "type": "string"
+    }
+  },
+  "connection": "default",
+  "collectionName": "answers"
+}
